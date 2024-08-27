@@ -4,8 +4,6 @@ A simple (non-complete) HTTP server in C, cross compilable to both Linux and Win
 
 Compiling:
 ```
-git clone https://github.com/GreenCobalt/c-webserver
-cd c-webserver
 make
 ```
 
