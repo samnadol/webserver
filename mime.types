@@ -1,0 +1,56 @@
+# READ: This is a modified, stripped version from the original mime.types 
+# found in the httpd source, to reduce memory usage of the webserver.
+# The full version is compatible, if you prefer that. Just download
+# it and paste the contents here.
+#
+# MIME type (lowercased)			Extensions
+# ==============================	==========
+application/epub+zip				epub
+application/gzip					gz
+application/java-archive			jar
+application/json					json
+application/msword					doc
+application/octet-stream			bin
+application/pdf						pdf
+application/rtf						rtf
+application/vnd.ms-excel			xls
+application/vnd.rar					rar
+application/xml						xml
+application/x-bzip					bz
+application/x-bzip2					bz2
+application/x-httpd-php				php
+application/x-sh					sh
+application/x-tar					tar
+application/x-7z-compressed			7z
+application/zip						zip
+audio/aac							aac
+audio/mpeg							mp3
+audio/ogg							oga
+audio/opus							opus
+audio/wav							wav
+audio/webm							weba
+font/otf							otf
+font/ttf							ttf
+font/woff							woff
+font/woff2							woff2
+image/apng							apng
+image/avif							avif
+image/bmp							bmp
+image/gif							gif
+image/jpeg							jpg jpeg
+image/png							png
+image/svg+xml						svg
+image/tiff							tif tiff
+image/vnd.microsoft.icon			ico
+image/webp							webp
+text/css							css
+text/csv							csv
+text/html							html htm
+text/javascript						js mjs
+text/plain							txt
+video/mp4							mp4
+video/mpeg							mpeg
+video/mp2t							ts
+video/ogg							ogv
+video/webm							webm
+video/x-msvideo						avi

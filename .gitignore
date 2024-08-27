@@ -1,0 +1,6 @@
+.vscode/
+a.out
+server
+server.exe
+obj/*
+TODO
